@@ -3,13 +3,29 @@ width: 30%;
 height: 50vh;
 border:1px black solid;
 margin: 0 auto;
-background:lightgrey ;
+background:olive;
+color: white;
+border-radius: 15px;
 }
 
 #send-container{
     margin:1% 0 0 45%;
 }
+
+#message-input:hover{
+background: black;
+color:white;
+}
+
 button{    
     background: black;
     color:white;
+    border-radius: 10px;
+}
+
+button:hover{    
+    background: rgb(196, 196, 154);
+    color:black;
+   
+    
 }

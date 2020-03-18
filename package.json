@@ -1,0 +1,25 @@
+{
+  "name": "Realtime-chat-app",
+  "version": "1.0.0",
+  "description": "dependancies needed:",
+  "main": "index.js",
+  "dependencies": {
+    "nodemon": "^2.0.2",
+    "socket.io": "^2.3.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "devStart": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Minakshi-Verma/Realtime-chat-app.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Minakshi-Verma/Realtime-chat-app/issues"
+  },
+  "homepage": "https://github.com/Minakshi-Verma/Realtime-chat-app#readme"
+}

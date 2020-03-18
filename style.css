@@ -1,0 +1,15 @@
+#message-container{
+width: 30%;
+height: 50vh;
+border:1px black solid;
+margin: 0 auto;
+background:lightgrey ;
+}
+
+#send-container{
+    margin:1% 0 0 45%;
+}
+button{    
+    background: black;
+    color:white;
+}
